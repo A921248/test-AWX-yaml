@@ -1,0 +1,5 @@
+---
+- name: prueba
+  hosts: localhost
+  vars: 
+  tasks:
